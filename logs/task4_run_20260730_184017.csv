@@ -1,0 +1,37 @@
+host_time,line
+1785408018.1702907,TEL seq=669 t=78438 estop=1 en=0 valid=1 state=0 tgt=165 x=252 err=-87 vel=3 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785408018.1713,OK ESTOP
+1785408018.173169,OK V
+1785408018.1764486,OK T4CNT
+1785408018.1796663,OK T4RPM
+1785408018.1824956,OK T4FF
+1785408018.2667522,OK START4
+1785408018.2806814,T4 q=670 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408018.4003437,T4 q=671 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408018.5167255,T4 q=672 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408018.6367881,T4 q=673 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408018.7559845,T4 q=674 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408018.8656704,T4 q=675 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408018.9742935,T4 q=676 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408019.0908556,T4 q=677 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408019.2106354,T4 q=678 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408019.3278468,T4 q=679 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408019.4363496,T4 q=680 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408019.545661,T4 q=681 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408019.6663857,T4 q=682 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408019.7845113,T4 q=683 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408019.9037116,T4 q=684 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408020.0206866,T4 q=685 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408020.1294672,T4 q=686 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408020.2388005,T4 q=687 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408020.3612957,T4 q=688 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408020.4791136,T4 q=689 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408020.5999038,T4 q=690 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408020.7083988,T4 q=691 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408020.8163753,T4 q=692 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408020.9322004,T4 q=693 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408021.0474494,T4 q=694 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408021.166737,T4 q=695 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408021.284071,T4 q=696 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785408021.392388,T4 q=697 s=4 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=252 e=-87 mx=0 ff=0 bad=0 inv=0 f=3 z=0
+1785408021.3976233,OK ESTOP

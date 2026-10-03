@@ -1,0 +1,35 @@
+# Keil uVision 编译产物
+Objects/
+*.map
+*.uvguix.*
+*.dep
+*.lst
+*.crf
+*.o
+*.d
+*.axf
+*.hex
+*.bin
+JLinkLog.txt
+
+# Keil 日志
+keil/.vscode/keil-assistant.log
+keil/.vscode/uv4.log
+keil/.vscode/uv4.log.lock
+
+
+# Python 虚拟环境
+.venv/
+__pycache__/
+*.pyc
+
+# Pi 本地配置/技能缓存
+.pi/
+
+# Windows 保留设备名（防止误生成）
+nul
+con
+prnkeil/build_log.txt
+
+_rollback_backups/
+*.uvprojx.bak

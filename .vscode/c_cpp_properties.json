@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "name": "H_BallCar_Task1_6",
+            "includePath": [
+                "${workspaceFolder}",
+                "${workspaceFolder}/Component",
+                "${workspaceFolder}/keil/FreeRTOS/include",
+                "${workspaceFolder}/keil/FreeRTOS/portable/GCC/ARM_CM0",
+                "${workspaceFolder}/keil/FreeRTOS/portable/MemMang",
+                "${env:MSPM0_SDK}/source",
+                "${env:MSPM0_SDK}/source/ti/devices/msp",
+                "${env:MSPM0_SDK}/source/third_party/CMSIS/Core/Include",
+                "D:/keil/ARM/ARMCLANG/include",
+                "D:/keil/ARM/ARMCLANG/lib/clang/20/include"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "${workspaceFolder}/Component",
+                    "${workspaceFolder}/keil/FreeRTOS/include",
+                    "${workspaceFolder}/keil/FreeRTOS/portable/GCC/ARM_CM0",
+                    "${workspaceFolder}/keil/FreeRTOS/portable/MemMang",
+                    "${env:MSPM0_SDK}/source",
+                    "${env:MSPM0_SDK}/source/ti/devices/msp",
+                    "${env:MSPM0_SDK}/source/third_party/CMSIS/Core/Include",
+                    "D:/keil/ARM/ARMCLANG/include"
+                ],
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "defines": [
+                "__MSPM0G3507__",
+                "__ARMCC_VERSION=6190000",
+                "__GNUC__"
+            ],
+            "compilerPath": "D:/keil/ARM/ARMCLANG/bin/armclang.exe",
+            "cStandard": "c99",
+            "intelliSenseMode": "gcc-arm",
+            "compilerArgs": [
+                "--target=armv6m-none-eabi"
+            ]
+        }
+    ],
+    "version": 4
+}

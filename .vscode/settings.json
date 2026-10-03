@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.configurationProvider": "none",
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.workspaceParsingPriority": "medium",
+    "C_Cpp.autocompleteAddParentheses": true,
+    "pendant.autoGenerateSessionNames": true
+}

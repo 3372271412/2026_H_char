@@ -1,0 +1,52 @@
+# ── Git line ending normalization ──
+# Auto-detect text files: store LF in repo, checkout CRLF on Windows
+* text=auto
+
+# ── Source code: treat as text ──
+*.c     text
+*.h     text
+*.s     text
+*.cpp   text
+*.hpp   text
+
+# ── Scripts / config: treat as text ──
+*.bat   text eol=crlf
+*.sh    text eol=lf
+*.py    text
+*.cfg   text
+*.sct   text
+Makefile text
+*.md    text
+
+# ── Keil project files: treat as text ──
+*.uvprojx text
+*.uvoptx  text
+*.uvguix  text
+
+# ── SysConfig: treat as text ──
+*.syscfg text
+*.dot    text
+
+# ── Binary files: do NOT convert ──
+*.o      binary
+*.d      binary
+*.axf    binary
+*.hex    binary
+*.bin    binary
+*.elf    binary
+*.map    binary
+*.crf    binary
+*.lib    binary
+*.a      binary
+*.pack   binary
+
+# ── Images / fonts ──
+*.png    binary
+*.jpg    binary
+*.bmp    binary
+*.gif    binary
+*.ico    binary
+
+# ── Git internals ──
+.gitattributes text
+.gitignore     text

@@ -1,0 +1,132 @@
+host_time,line
+1785404918.061214,=0 valid=1 state=0 tgt=165 x=165 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0626652,TEL seq=502 t=58947 estop=1 en=0 valid=1 state=0 tgt=165 x=168 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0641003,TEL seq=503 t=59069 estop=1 en=0 valid=1 state=0 tgt=165 x=170 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0656962,TEL seq=504 t=59191 estop=1 en=0 valid=1 state=0 tgt=165 x=169 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0671651,TEL seq=505 t=59312 estop=1 en=0 valid=1 state=0 tgt=165 x=168 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0685785,TEL seq=506 t=59423 estop=1 en=0 valid=1 state=0 tgt=165 x=165 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0700147,TEL seq=507 t=59534 estop=1 en=0 valid=1 state=0 tgt=165 x=162 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0715485,TEL seq=508 t=59655 estop=1 en=0 valid=1 state=0 tgt=165 x=162 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0729418,TEL seq=509 t=59776 estop=1 en=0 valid=1 state=0 tgt=165 x=159 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.074375,TEL seq=510 t=59899 estop=1 en=0 valid=1 state=0 tgt=165 x=156 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0758328,TEL seq=511 t=60010 estop=1 en=0 valid=1 state=0 tgt=165 x=152 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0772166,TEL seq=512 t=60121 estop=1 en=0 valid=1 state=0 tgt=165 x=148 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0786557,TEL seq=513 t=60241 estop=1 en=0 valid=1 state=0 tgt=165 x=144 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0800433,TEL seq=514 t=60364 estop=1 en=0 valid=1 state=0 tgt=165 x=139 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0814207,TEL seq=515 t=60484 estop=1 en=0 valid=1 state=0 tgt=165 x=132 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.08336,TEL seq=516 t=60595 estop=1 en=0 valid=1 state=0 tgt=165 x=128 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0851521,TEL seq=517 t=60706 estop=1 en=0 valid=1 state=0 tgt=165 x=123 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0869448,TEL seq=518 t=60828 estop=1 en=0 valid=1 state=0 tgt=165 x=118 err=5 vel=46 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0901473,TEL seq=519 t=60951 estop=1 en=0 valid=1 state=0 tgt=165 x=114 err=5 vel=46 out=0 sat=0 reach=0 t3TEL seq=675 t=78696 estop=0 en=0 valid=1 state=0 tgt=0 x=32 err=0 vel=0 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0918303,TEL seq=676 t=78816 estop=0 en=0 valid=1 state=0 tgt=0 x=32 err=0 vel=0 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0934849,TEL seq=677 t=78937 estop=0 en=0 valid=1 state=0 tgt=0 x=32 err=0 vel=0 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0951374,TEL seq=678 t=79056 estop=0 en=0 valid=1 state=0 tgt=0 x=32 err=0 vel=0 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0967913,TEL seq=679 t=79167 estop=0 en=0 valid=1 state=0 tgt=0 x=32 err=0 vel=0 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.0984895,TEL seq=680 t=79277 estop=0 en=0 valid=1 state=0 tgt=0 x=32 err=0 vel=0 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.1002362,TEL seq=681 t=79394 estop=0 en=0 valid=1 state=0 tgt=0 x=32 err=0 vel=0 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.101896,TEL seq=682 t=79514 estop=0 en=0 valid=1 state=0 tgt=0 x=32 err=0 vel=0 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.1036186,TEL seq=683 t=79633 estop=0 en=0 valid=1 state=0 tgt=0 x=32 err=0 vel=0 out=0 sat=0 reach=0 t3s=0 t3ms=0
+1785404918.1038177,OK ESTOP
+1785404918.1056406,OK V
+1785404918.1089547,OK T4CNT
+1785404918.1119814,OK T4RPM
+1785404918.1150708,OK T4FF
+1785404918.1923065,TEL seq=684 t=79751 estop=1 en=1 valid=1 state=2 tgt=165 x=32 err=133 vel=0 out=120 sat=1 reach=0 t3s=0 t3ms=0
+1785404918.199071,OK START4
+1785404918.2970228,T4 q=685 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=32 e=133 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404918.4159439,T4 q=686 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=34 e=131 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404918.5329144,T4 q=687 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=37 e=128 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404918.6489985,T4 q=688 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=46 e=121 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404918.7603147,T4 q=689 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=53 e=112 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404919.045471,T4 q=690 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=66 e=99 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404919.0466135,T4 q=691 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=80 e=85 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404919.1691008,T4 q=692 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=92 e=73 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404919.2181609,T4 q=693 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=100 e=65 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404919.3341346,T4 q=694 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=108 e=57 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404919.7834332,T4 q=695 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=113 e=52 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404919.7848682,T4 q=696 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=119 e=46 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404919.7862682,T4 q=697 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=125 e=40 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404919.7888556,T4 q=698 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=133 e=32 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404919.9080474,T4 q=699 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=141 e=25 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404920.0170157,T4 q=700 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=150 e=16 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404921.009709,T4 q=701 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=158 e=7 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404921.0107758,T4 q=702 s=5 ms=0 c=0 rem=0 p=0 l=0 r=0 v=1 x=163 e=2 mx=0 ff=0 bad=0 inv=0 f=0 z=0
+1785404921.0118756,T4 q=703 s=1 ms=60 c=0 rem=18000 p=-40 l=0 r=0 v=1 x=166 e=-1 mx=1 ff=10 bad=0 inv=0 f=0 z=0
+1785404921.012974,T4 q=704 s=1 ms=191 c=0 rem=18000 p=-4 l=0 r=0 v=1 x=165 e=0 mx=1 ff=10 bad=0 inv=0 f=0 z=0
+1785404921.0140855,T4 q=705 s=1 ms=311 c=6 rem=17994 p=-216 l=0 r=4 v=1 x=163 e=2 mx=2 ff=10 bad=0 inv=0 f=0 z=0
+1785404921.015714,T4 q=706 s=1 ms=441 c=11 rem=17989 p=-132 l=1 r=1 v=1 x=164 e=1 mx=2 ff=10 bad=0 inv=0 f=0 z=0
+1785404921.017218,T4 q=707 s=1 ms=552 c=25 rem=17975 p=150 l=5 r=4 v=1 x=165 e=0 mx=2 ff=10 bad=0 inv=0 f=0 z=0
+1785404921.0187032,T4 q=708 s=1 ms=660 c=55 rem=17945 p=-159 l=9 r=10 v=1 x=165 e=0 mx=2 ff=10 bad=0 inv=0 f=0 z=0
+1785404921.0977204,T4 q=709 s=1 ms=790 c=115 rem=17885 p=-20 l=15 r=15 v=1 x=164 e=1 mx=2 ff=10 bad=0 inv=0 f=0 z=0
+1785404921.2218473,T4 q=710 s=1 ms=920 c=204 rem=17796 p=-6 l=25 r=26 v=1 x=163 e=2 mx=2 ff=10 bad=0 inv=0 f=0 z=0
+1785404921.3511176,T4 q=711 s=1 ms=1041 c=304 rem=17696 p=-10 l=31 r=31 v=1 x=164 e=1 mx=2 ff=10 bad=0 inv=0 f=0 z=0
+1785404921.472498,T4 q=712 s=1 ms=1170 c=438 rem=17562 p=35 l=39 r=39 v=1 x=163 e=2 mx=2 ff=10 bad=0 inv=0 f=0 z=0
+1785404921.6369321,T4 q=713 s=1 ms=1290 c=578 rem=17422 p=532 l=45 r=45 v=1 x=163 e=1 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404921.7050192,T4 q=714 s=1 ms=1400 c=727 rem=17273 p=197 l=52 r=51 v=1 x=163 e=2 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404921.8316414,T4 q=715 s=1 ms=1531 c=915 rem=17085 p=686 l=57 r=57 v=1 x=164 e=1 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404921.9646451,T4 q=716 s=1 ms=1652 c=1108 rem=16892 p=1019 l=65 r=64 v=1 x=163 e=2 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404922.0844193,T4 q=717 s=1 ms=1780 c=1340 rem=16660 p=1503 l=69 r=69 v=1 x=164 e=2 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404922.922986,T4 q=718 s=1 ms=1900 c=1571 rem=16429 p=1830 l=74 r=78 v=1 x=163 e=2 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404922.9246259,T4 q=719 s=1 ms=2021 c=1817 rem=16183 p=2111 l=81 r=83 v=1 x=163 e=2 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404922.9261513,T4 q=720 s=1 ms=2130 c=2067 rem=15933 p=2138 l=85 r=88 v=1 x=163 e=2 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404922.927659,T4 q=721 s=1 ms=2260 c=2379 rem=15621 p=2048 l=96 r=94 v=1 x=164 e=1 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404922.9291778,T4 q=722 s=1 ms=2390 c=2707 rem=15293 p=1817 l=102 r=97 v=1 x=164 e=1 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404922.9308436,T4 q=723 s=1 ms=2520 c=3051 rem=14949 p=2231 l=108 r=104 v=1 x=165 e=0 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404922.9400983,T4 q=724 s=1 ms=2650 c=3410 rem=14590 p=2067 l=113 r=104 v=1 x=163 e=2 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404923.051851,T4 q=725 s=1 ms=2761 c=3720 rem=14280 p=2092 l=116 r=106 v=1 x=163 e=2 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404923.178546,T4 q=726 s=1 ms=2870 c=4048 rem=13952 p=1884 l=121 r=110 v=1 x=164 e=1 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404923.3060558,T4 q=727 s=1 ms=3002 c=4442 rem=13558 p=71 l=131 r=115 v=1 x=163 e=2 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404923.4374423,T4 q=728 s=1 ms=3131 c=4859 rem=13141 p=-572 l=134 r=116 v=1 x=163 e=2 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404923.5675676,T4 q=729 s=1 ms=3260 c=5286 rem=12714 p=-2023 l=139 r=121 v=1 x=164 e=1 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404923.6801505,T4 q=730 s=1 ms=3391 c=5712 rem=12288 p=-3332 l=136 r=123 v=1 x=164 e=1 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404923.7959785,T4 q=731 s=1 ms=3502 c=6058 rem=11942 p=-2319 l=122 r=133 v=1 x=165 e=0 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404923.9235528,T4 q=732 s=1 ms=3620 c=6420 rem=11580 p=-1395 l=109 r=132 v=1 x=167 e=-2 mx=2 ff=0 bad=0 inv=0 f=0 z=0
+1785404924.0549543,T4 q=733 s=1 ms=3750 c=6785 rem=11215 p=1101 l=93 r=128 v=1 x=169 e=-4 mx=4 ff=0 bad=0 inv=0 f=0 z=0
+1785404924.1867628,T4 q=734 s=1 ms=3881 c=7128 rem=10872 p=2794 l=90 r=122 v=1 x=173 e=-8 mx=8 ff=0 bad=0 inv=0 f=0 z=0
+1785404924.3130555,T4 q=735 s=1 ms=4012 c=7455 rem=10545 p=3855 l=90 r=110 v=1 x=176 e=-11 mx=11 ff=0 bad=40 inv=0 f=0 z=0
+1785404924.4384031,T4 q=736 s=1 ms=4130 c=7752 rem=10248 p=5525 l=93 r=104 v=1 x=176 e=-11 mx=11 ff=0 bad=140 inv=0 f=0 z=0
+1785404924.542393,T4 q=737 s=1 ms=4250 c=8032 rem=9968 p=6024 l=93 r=91 v=1 x=171 e=-7 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404925.0968146,T4 q=738 s=1 ms=4361 c=8284 rem=9716 p=4964 l=99 r=86 v=1 x=167 e=-2 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404925.0981405,T4 q=739 s=1 ms=4490 c=8585 rem=9415 p=3964 l=104 r=83 v=1 x=163 e=2 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404925.0994105,T4 q=740 s=1 ms=4622 c=8889 rem=9111 p=2446 l=108 r=82 v=1 x=166 e=-1 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404925.1007388,T4 q=741 s=1 ms=4751 c=9208 rem=8792 p=857 l=114 r=83 v=1 x=171 e=-6 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404925.1714013,T4 q=742 s=1 ms=4881 c=9542 rem=8458 p=-1631 l=118 r=84 v=1 x=174 e=-9 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404925.2879066,T4 q=743 s=1 ms=4991 c=9820 rem=8180 p=-3823 l=116 r=85 v=1 x=173 e=-8 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404925.5659056,T4 q=744 s=1 ms=5110 c=10122 rem=7878 p=-4116 l=107 r=91 v=1 x=170 e=-5 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404925.5675347,T4 q=745 s=1 ms=5240 c=10429 rem=7571 p=-4977 l=97 r=94 v=1 x=166 e=-2 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404925.7274103,T4 q=746 s=1 ms=5370 c=10733 rem=7267 p=-4215 l=87 r=100 v=1 x=164 e=1 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404925.810577,T4 q=747 s=1 ms=5500 c=11030 rem=6970 p=-2573 l=74 r=104 v=1 x=164 e=1 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404925.926641,T4 q=748 s=1 ms=5630 c=11325 rem=6675 p=-153 l=71 r=111 v=1 x=166 e=-1 mx=11 ff=0 bad=150 inv=0 f=0 z=0
+1785404926.0397043,T4 q=749 s=1 ms=5752 c=11605 rem=6395 p=1877 l=71 r=114 v=1 x=168 e=-3 mx=11 ff=-35 bad=150 inv=0 f=0 z=0
+1785404926.1701207,T4 q=750 s=1 ms=5861 c=11855 rem=6145 p=4062 l=73 r=109 v=1 x=169 e=-4 mx=11 ff=-35 bad=150 inv=0 f=0 z=0
+1785404926.669453,T4 q=751 s=1 ms=5991 c=12139 rem=5861 p=6136 l=74 r=103 v=1 x=170 e=-5 mx=11 ff=-35 bad=150 inv=0 f=0 z=0
+1785404926.6708298,T4 q=752 s=1 ms=6120 c=12416 rem=5584 p=6232 l=80 r=91 v=1 x=171 e=-6 mx=11 ff=-35 bad=150 inv=0 f=0 z=0
+1785404926.6721036,T4 q=753 s=1 ms=6251 c=12686 rem=5314 p=6229 l=87 r=81 v=1 x=170 e=-5 mx=11 ff=-35 bad=150 inv=0 f=0 z=0
+1785404926.6778514,T4 q=754 s=1 ms=6380 c=12958 rem=5042 p=5553 l=90 r=76 v=1 x=167 e=-3 mx=11 ff=-35 bad=150 inv=0 f=0 z=0
+1785404926.7921183,T4 q=755 s=1 ms=6500 c=13212 rem=4788 p=5549 l=94 r=72 v=1 x=163 e=1 mx=11 ff=-35 bad=150 inv=0 f=0 z=0
+1785404926.9214563,T4 q=756 s=1 ms=6611 c=13450 rem=4550 p=4136 l=102 r=72 v=1 x=161 e=4 mx=11 ff=-35 bad=150 inv=0 f=0 z=0
+1785404927.0507033,T4 q=757 s=1 ms=6741 c=13734 rem=4266 p=2070 l=102 r=70 v=1 x=157 e=8 mx=11 ff=-35 bad=150 inv=0 f=0 z=0
+1785404927.18096,T4 q=758 s=1 ms=6871 c=14040 rem=3960 p=-119 l=110 r=72 v=1 x=154 e=11 mx=11 ff=-35 bad=160 inv=0 f=0 z=0
+1785404927.311996,T4 q=759 s=1 ms=7000 c=14348 rem=3652 p=-2943 l=112 r=76 v=1 x=153 e=12 mx=12 ff=-35 bad=290 inv=0 f=0 z=0
+1785404927.427935,T4 q=760 s=1 ms=7130 c=14651 rem=3349 p=-5022 l=109 r=79 v=1 x=153 e=12 mx=13 ff=-35 bad=420 inv=0 f=0 z=0
+1785404927.542967,T4 q=761 s=1 ms=7250 c=14928 rem=3072 p=-5931 l=98 r=83 v=1 x=155 e=10 mx=13 ff=-35 bad=480 inv=0 f=0 z=0
+1785404927.6702802,T4 q=762 s=1 ms=7360 c=15173 rem=2827 p=-6883 l=91 r=87 v=1 x=160 e=6 mx=13 ff=-35 bad=480 inv=0 f=0 z=0
+1785404927.7988591,T4 q=763 s=1 ms=7492 c=15445 rem=2555 p=-6818 l=81 r=90 v=1 x=161 e=4 mx=13 ff=-35 bad=480 inv=0 f=0 z=0
+1785404927.9279168,T4 q=764 s=1 ms=7622 c=15711 rem=2289 p=-6115 l=70 r=94 v=1 x=157 e=8 mx=13 ff=-35 bad=480 inv=0 f=0 z=0
+1785404928.0551908,T4 q=765 s=1 ms=7752 c=15961 rem=2039 p=-4082 l=60 r=95 v=1 x=153 e=12 mx=13 ff=-35 bad=530 inv=0 f=0 z=0
+1785404928.1774404,T4 q=766 s=1 ms=7881 c=16201 rem=1799 p=-1221 l=53 r=94 v=1 x=149 e=16 mx=16 ff=-35 bad=660 inv=0 f=0 z=0
+1785404928.2925994,T4 q=767 s=2 ms=8002 c=16419 rem=1581 p=1766 l=50 r=94 v=1 x=149 e=16 mx=16 ff=-35 bad=780 inv=0 f=4 z=0
+1785404928.420726,T4 q=768 s=2 ms=8002 c=16419 rem=0 p=2094 l=50 r=94 v=1 x=153 e=12 mx=16 ff=-35 bad=890 inv=0 f=4 z=0
+1785404928.5491526,T4 q=769 s=2 ms=8002 c=16419 rem=0 p=2075 l=50 r=94 v=1 x=174 e=-6 mx=16 ff=-35 bad=910 inv=0 f=4 z=0
+1785404928.6732652,T4 q=770 s=2 ms=8002 c=16419 rem=0 p=2075 l=50 r=94 v=1 x=198 e=-33 mx=33 ff=-35 bad=1030 inv=0 f=4 z=0
+1785404928.8018765,T4 q=771 s=2 ms=8002 c=16419 rem=0 p=2100 l=50 r=94 v=1 x=221 e=-51 mx=51 ff=-35 bad=1150 inv=0 f=4 z=0
+1785404928.9168956,T4 q=772 s=2 ms=8002 c=16419 rem=0 p=2105 l=50 r=94 v=1 x=234 e=-66 mx=66 ff=-35 bad=1280 inv=0 f=4 z=0
+1785404929.0292594,T4 q=773 s=2 ms=8002 c=16419 rem=0 p=2081 l=50 r=94 v=1 x=238 e=-73 mx=73 ff=-35 bad=1400 inv=0 f=4 z=0
+1785404929.1592073,T4 q=774 s=2 ms=8002 c=16419 rem=0 p=2098 l=50 r=94 v=1 x=239 e=-74 mx=74 ff=-35 bad=1510 inv=0 f=4 z=0
+1785404929.2948136,T4 q=775 s=2 ms=8002 c=16419 rem=0 p=2104 l=50 r=94 v=1 x=236 e=-71 mx=74 ff=-35 bad=1640 inv=0 f=4 z=0
+1785404929.412535,T4 q=776 s=2 ms=8002 c=16419 rem=0 p=2111 l=50 r=94 v=1 x=228 e=-63 mx=74 ff=-35 bad=1770 inv=0 f=4 z=0
+1785404929.5405347,T4 q=777 s=2 ms=8002 c=16419 rem=0 p=2082 l=50 r=94 v=1 x=216 e=-53 mx=74 ff=-35 bad=1890 inv=0 f=4 z=0
+1785404929.6556165,T4 q=778 s=2 ms=8002 c=16419 rem=0 p=2075 l=50 r=94 v=1 x=199 e=-34 mx=74 ff=-35 bad=2020 inv=0 f=4 z=0
+1785404929.7695649,T4 q=779 s=2 ms=8002 c=16419 rem=0 p=2096 l=50 r=94 v=1 x=186 e=-21 mx=74 ff=-35 bad=2140 inv=0 f=4 z=0
+1785404929.892799,T4 q=780 s=4 ms=8002 c=16419 rem=0 p=2082 l=50 r=94 v=1 x=172 e=-7 mx=74 ff=0 bad=2160 inv=0 f=4 z=0
+1785404929.8976,OK ESTOP
